@@ -1,11 +1,4 @@
-<%*
-/**
- * Dataview issue tracker
- * 
- * @author ljavuras <ljavuras.py@gmail.com>
- * ======================================== */
--%>
-# [[<% tp.file.folder() %>]] / Issues
+# [[issues]] / Issues
 ```dataviewjs
 await dv.view("Issue Tracker/IssueTracker", {
     obsidian: obsidian,
